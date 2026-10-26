@@ -1,0 +1,9 @@
+Flutter assets will be downloaded from https://storage.flutter-io.cn. Make sure you trust this source!
+00:00 +0: loading C:/Users/412-31/flutter_apps/A/week6_notice/test/widget_test.dart
+00:00 +0: AC1, AC2, AC5: 로딩, 성공, 중복 방지
+NOTICE_RESULT: 6주차 실습 자료가 열렸습니다.
+00:00 +1: AC3, AC4: 실패와 재시도
+NOTICE_LOAD_FAILED: Exception: NOTICE_UNAVAILABLE
+NOTICE_RESULT: 6주차 실습 자료가 열렸습니다.
+00:00 +2: 확장: 요청 중 화면 제거 뒤 예외 없음
+00:00 +3: All tests passed!
